@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Prabodhan</h1>
-<h3 align="center">FullStack Web Developer | MERN</h3>
+<h3 align="center">FullStack Developer</h3>
 <img align="right" alt="Full-Stack gif" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif)" />
 
 - 💬 Ask me about **React, JavaScript, CSS, NodeJS, ExpressJS**
