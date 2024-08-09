@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prabodhann" target="blank"><img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9523x5o5j0kk7moppgxpae4rrvraloyihyyugk9vtng&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="prabodhann" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabodhann" target="blank"><img align="center" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="prabodhann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
