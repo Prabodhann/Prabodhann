@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer</h3>
 <img align="right" alt="Full-Stack gif" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" />
 
-- 💬 Ask me about **React, JavaScript, CSS, NodeJS, ExpressJS**
+Ask me about **React, Next.js, Nest.js, JavaScript, CSS, NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
